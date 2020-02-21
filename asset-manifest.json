@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/LeagueEkko/static/css/main.0783bdbd.chunk.css",
+    "main.js": "/LeagueEkko/static/js/main.4c0fda59.chunk.js",
+    "main.js.map": "/LeagueEkko/static/js/main.4c0fda59.chunk.js.map",
+    "runtime-main.js": "/LeagueEkko/static/js/runtime-main.da97aca4.js",
+    "runtime-main.js.map": "/LeagueEkko/static/js/runtime-main.da97aca4.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/LeagueEkko/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.d303fd4e.chunk.js": "/LeagueEkko/static/js/2.d303fd4e.chunk.js",
+    "static/js/2.d303fd4e.chunk.js.map": "/LeagueEkko/static/js/2.d303fd4e.chunk.js.map",
+    "index.html": "/LeagueEkko/index.html",
+    "precache-manifest.24cc403aeed8a528e2af37d6029c5dd7.js": "/LeagueEkko/precache-manifest.24cc403aeed8a528e2af37d6029c5dd7.js",
+    "service-worker.js": "/LeagueEkko/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/LeagueEkko/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.0783bdbd.chunk.css.map": "/LeagueEkko/static/css/main.0783bdbd.chunk.css.map",
+    "static/js/2.d303fd4e.chunk.js.LICENSE.txt": "/LeagueEkko/static/js/2.d303fd4e.chunk.js.LICENSE.txt",
+    "static/media/RuneImage1.PNG": "/LeagueEkko/static/media/RuneImage1.0bf6a398.PNG",
+    "static/media/RuneImage2.PNG": "/LeagueEkko/static/media/RuneImage2.04903fb2.PNG",
+    "static/media/image1.jpg": "/LeagueEkko/static/media/image1.4bed702d.jpg",
+    "static/media/image3.jpg": "/LeagueEkko/static/media/image3.a9ae1b4e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da97aca4.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.d303fd4e.chunk.js",
+    "static/css/main.0783bdbd.chunk.css",
+    "static/js/main.4c0fda59.chunk.js"
+  ]
+}
