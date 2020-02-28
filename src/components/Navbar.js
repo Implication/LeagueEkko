@@ -5,11 +5,26 @@ const Navbar = () => {
     <Fragment>
       <div id="navbar">
         <ul>
-          <li id="nav-logo">Ekko</li>
-          <li className="nav-i"> Runes</li>
-          <li className="nav-i">Abilities</li>
-          <li className="nav-i">Items</li>
-          <li className="nav-i">Showcase</li>
+          <li id="nav-logo">
+            <a className="btn btn-outline-light border-0" href="#top">
+              Ekko
+            </a>
+          </li>
+          <li className="nav-i">
+            <a className="btn btn-outline-light border-0" href="#runes">
+              Runes
+            </a>
+          </li>
+          <li className="nav-i">
+            <a className="btn btn-outline-light border-0" href="#abilities">
+              Abilities
+            </a>
+          </li>
+          <li className="nav-i">
+            <a className="btn btn-outline-light border-0" href="#videos">
+              Videos
+            </a>
+          </li>
         </ul>
       </div>
     </Fragment>
