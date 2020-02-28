@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/LeagueEkko/precache-manifest.24cc403aeed8a528e2af37d6029c5dd7.js"
+  "/LeagueEkko/precache-manifest.6e8bb43ae4f0304e06b77062d2de8375.js"
 );
 
 self.addEventListener('message', (event) => {
